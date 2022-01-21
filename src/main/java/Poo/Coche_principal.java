@@ -7,7 +7,6 @@ public class Coche_principal {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
-        String color, asientos, acondicionador;
         
         Coche Renault = new Coche();
         
